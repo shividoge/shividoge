@@ -6,7 +6,7 @@
 
 Computer Engineering @ University of Florida · Gainesville, FL · looking for a Summer 2027 internship or research position
 
-[<img src="assets/badges/website.svg" alt="shivin.me">](https://shivin.me) <a href="https://www.linkedin.com/in/shivinranand/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a> <a href="mailto:shivin.r.anand@gmail.com"><img src="assets/badges/email.svg" alt="Email"></a> <a href="https://shivin.me/ShivinAnandResume.pdf"><img src="assets/badges/resume.svg" alt="Résumé"></a>
+[<img src="assets/badges/website.svg" alt="shivin.me">](https://shivin.me) <a href="https://www.linkedin.com/in/shivinranand/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a> <a href="mailto:shivin.r.anand@gmail.com"><img src="assets/badges/email.svg" alt="Email"></a> <a href="assets/ShivinAnandResume.pdf"><img src="assets/badges/resume.svg" alt="Resume"></a>
 
 </div>
 
