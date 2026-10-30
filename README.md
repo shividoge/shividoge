@@ -6,10 +6,7 @@
 
 Computer Engineering @ University of Florida · Gainesville, FL · looking for a Summer 2027 internship or research position
 
-[![Website](https://img.shields.io/badge/shivin.me-0D0D0F?style=for-the-badge&logo=firefox&logoColor=D5ACFF)](https://shivin.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0F?style=for-the-badge&logo=linkedin&logoColor=D5ACFF)](https://www.linkedin.com/in/shivinranand/)
-[![Email](https://img.shields.io/badge/Email-0D0D0F?style=for-the-badge&logo=gmail&logoColor=D5ACFF)](mailto:shivin.r.anand@gmail.com)
-[![Résumé](https://img.shields.io/badge/Résumé-0D0D0F?style=for-the-badge&logo=readme&logoColor=D5ACFF)](https://shivin.me/ShivinAnandResume.pdf)
+[<img src="assets/badges/website.svg" alt="shivin.me">](https://shivin.me) <a href="https://www.linkedin.com/in/shivinranand/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a> <a href="mailto:shivin.r.anand@gmail.com"><img src="assets/badges/email.svg" alt="Email"></a> <a href="https://shivin.me/ShivinAnandResume.pdf"><img src="assets/badges/resume.svg" alt="Résumé"></a>
 
 </div>
 
@@ -65,16 +62,7 @@ More at **[shivin.me](https://shivin.me)**.
 
 ## Toolbox
 
-![Embedded C](https://img.shields.io/badge/Embedded_C-0D0D0F?style=flat-square&logo=c&logoColor=D5ACFF)
-![Verilog](https://img.shields.io/badge/Verilog%20%2F%20SystemVerilog-0D0D0F?style=flat-square&logoColor=D5ACFF)
-![KiCad](https://img.shields.io/badge/KiCad-0D0D0F?style=flat-square&logo=kicad&logoColor=D5ACFF)
-![Vivado](https://img.shields.io/badge/Vivado%20%2F%20Vitis-0D0D0F?style=flat-square&logo=amd&logoColor=D5ACFF)
-![Python](https://img.shields.io/badge/Python-0D0D0F?style=flat-square&logo=python&logoColor=D5ACFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0F?style=flat-square&logo=typescript&logoColor=D5ACFF)
-![three.js](https://img.shields.io/badge/three.js-0D0D0F?style=flat-square&logo=threedotjs&logoColor=D5ACFF)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D0D0F?style=flat-square&logo=opencv&logoColor=D5ACFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0F?style=flat-square&logo=fastapi&logoColor=D5ACFF)
-![Next.js](https://img.shields.io/badge/Next.js-0D0D0F?style=flat-square&logo=nextdotjs&logoColor=D5ACFF)
+<img src="assets/badges/c.svg" alt="Embedded C"> <img src="assets/badges/verilog.svg" alt="Verilog / SystemVerilog"> <img src="assets/badges/kicad.svg" alt="KiCad"> <img src="assets/badges/vivado.svg" alt="Vivado / Vitis"> <img src="assets/badges/python.svg" alt="Python"> <img src="assets/badges/ts.svg" alt="TypeScript"> <img src="assets/badges/three.svg" alt="three.js"> <img src="assets/badges/opencv.svg" alt="OpenCV"> <img src="assets/badges/fastapi.svg" alt="FastAPI"> <img src="assets/badges/next.svg" alt="Next.js">
 
 I²C sensor integration · hardware bring-up and debugging
 
