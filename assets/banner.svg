@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Shivin Anand: power-on self test and an I2C timing diagram. Timing is the specification.">
+<defs>
+<clipPath id="c"><rect x="470" y="40" width="400" height="170"/></clipPath>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0D0D0F" stop-opacity="1"/><stop offset=".04" stop-color="#0D0D0F" stop-opacity="0"/><stop offset=".9" stop-color="#0D0D0F" stop-opacity="0"/><stop offset="1" stop-color="#0D0D0F" stop-opacity="1"/></linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.t{font-size:14px;fill:#9A968C}
+.k{fill:#EDEBE6}
+.ok{fill:#D5ACFF}
+.l{opacity:0;animation:in .01s forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:b 1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+.w{animation:s 6.4s linear infinite}
+@keyframes s{to{transform:translateX(-640px)}}
+.scl{stroke:#D5ACFF} .sda{stroke:#3AA0FF}
+.sig{fill:none;stroke-width:2.5;stroke-linejoin:round}
+@media (prefers-reduced-motion:reduce){.w,.cur{animation:none}.l{opacity:1;animation:none}}
+</style>
+<rect width="900" height="240" rx="14" fill="#0D0D0F"/>
+<rect x=".5" y=".5" width="899" height="239" rx="14" fill="none" stroke="#2A2A31"/>
+<text x="28" y="40" class="t">SA-01 · power-on self test</text>
+<g font-size="14">
+<text x="28" y="76" class="t l" style="animation-delay:.4s">FPGA CPU ....... <tspan class="k">ALU in progress</tspan></text>
+<text x="28" y="100" class="t l" style="animation-delay:.9s">Robot PCB ...... <tspan class="k">KiCad</tspan></text>
+<text x="28" y="124" class="t l" style="animation-delay:1.4s">Env board ...... <tspan class="k">BME680 · I²C · 3.3 V</tspan></text>
+<text x="28" y="148" class="t l" style="animation-delay:1.9s">Re:Collection .. <tspan class="k">1st, Meta track · Cal Hacks 13</tspan></text>
+<text x="28" y="172" class="t l" style="animation-delay:2.4s">Deja View ...... <tspan class="k">AI/ML + DeepSpace · SwampHacks XII</tspan></text>
+<text x="28" y="206" class="ok l" style="animation-delay:3s;font-size:16px;font-weight:700">READY<tspan class="cur">_</tspan></text>
+</g>
+<text x="470" y="32" class="t">I²C  400 kHz</text>
+<text x="835" y="32" class="t" text-anchor="end" style="fill:#66635B">timing is the specification</text>
+<text x="474" y="82" font-size="12" class="t" style="fill:#D5ACFF;font-size:12px">SCL</text>
+<text x="474" y="168" font-size="12" class="t" style="fill:#3AA0FF;font-size:12px">SDA</text>
+<g clip-path="url(#c)">
+<g transform="translate(470,0)"><g class="w"><path class="sig scl" d="M0 100 H20 V60 H60 V100 H80 H100 V60 H140 V100 H160 H180 V60 H220 V100 H240 H260 V60 H300 V100 H320 H340 V60 H380 V100 H400 H420 V60 H460 V100 H480 H500 V60 H540 V100 H560 H580 V60 H620 V100 H640 H660 V60 H700 V100 H720 H740 V60 H780 V100 H800 H820 V60 H860 V100 H880 H900 V60 H940 V100 H960 H980 V60 H1020 V100 H1040 H1060 V60 H1100 V100 H1120 H1140 V60 H1180 V100 H1200 H1220 V60 H1260 V100 H1280 H1300 V60 H1340 V100 H1360 H1380 V60 H1420 V100 H1440 H1460 V60 H1500 V100 H1520 H1540 V60 H1580 V100 H1600 H1620 V60 H1660 V100 H1680 H1700 V60 H1740 V100 H1760"/><path class="sig sda" d="M0 150 H80 L94 190 H160 L174 150 H240 H320 L334 190 H400 H480 L494 150 H560 L574 190 H640 L654 150 H720 L734 190 H800 L814 150 H880 H960 L974 190 H1040 H1120 L1134 150 H1200 L1214 190 H1280 L1294 150 H1360 L1374 190 H1440 L1454 150 H1520 H1600 L1614 190 H1680 H1760 L1774 150 H1840 L1854 190 H1920"/></g></g>
+</g>
+<rect x="470" y="40" width="400" height="170" fill="url(#fade)"/>
+</svg>
