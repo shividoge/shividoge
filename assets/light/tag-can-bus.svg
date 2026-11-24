@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="28" viewBox="0 0 69 28" role="img" aria-label="CAN bus"><title>CAN bus</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="68" height="27" rx="4" fill="#F7F5F1" stroke="#DDD8CF"/><path d="M13.75 18V8.88H19V18ZM14.62 17.38H18.38V10.24ZM14.38 16.64 18.12 9.5H14.38ZM20 18V8.88H25.25V18ZM20.88 17.38H24.62V10.24ZM20.62 16.64 24.38 9.5H20.62ZM26.25 18V8.88H31.5V18ZM27.12 17.38H30.88V10.24ZM26.88 16.64 30.62 9.5H26.88ZM32.5 18V8.88H37.75V18ZM33.38 17.38H37.12V10.24ZM33.12 16.64 36.88 9.5H33.12ZM38.75 18V8.88H44V18ZM39.62 17.38H43.38V10.24ZM39.38 16.64 43.12 9.5H39.38ZM45 18V8.88H50.25V18ZM45.88 17.38H49.62V10.24ZM45.62 16.64 49.38 9.5H45.62ZM51.25 18V8.88H56.5V18ZM52.12 17.38H55.88V10.24ZM51.88 16.64 55.62 9.5H51.88Z" fill="#14130F" /></svg>

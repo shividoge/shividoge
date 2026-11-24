@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="28" viewBox="0 0 57 28" role="img" aria-label="Vitis"><title>Vitis</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="56" height="27" rx="4" fill="#F7F5F1" stroke="#DDD8CF"/><path d="M14 18V8.88H19.25V18ZM14.88 17.38H18.62V10.24ZM14.62 16.64 18.38 9.5H14.62ZM20.25 18V8.88H25.5V18ZM21.12 17.38H24.88V10.24ZM20.88 16.64 24.62 9.5H20.88ZM26.5 18V8.88H31.75V18ZM27.38 17.38H31.12V10.24ZM27.12 16.64 30.88 9.5H27.12ZM32.75 18V8.88H38V18ZM33.62 17.38H37.38V10.24ZM33.38 16.64 37.12 9.5H33.38ZM39 18V8.88H44.25V18ZM39.88 17.38H43.62V10.24ZM39.62 16.64 43.38 9.5H39.62Z" fill="#14130F" /></svg>

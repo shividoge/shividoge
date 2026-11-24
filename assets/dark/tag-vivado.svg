@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="28" viewBox="0 0 63 28" role="img" aria-label="Vivado"><title>Vivado</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="62" height="27" rx="4" fill="#16161A" stroke="#2A2A31"/><path d="M13.88 18V8.88H19.12V18ZM14.75 17.38H18.5V10.24ZM14.5 16.64 18.25 9.5H14.5ZM20.12 18V8.88H25.38V18ZM21 17.38H24.75V10.24ZM20.75 16.64 24.5 9.5H20.75ZM26.38 18V8.88H31.62V18ZM27.25 17.38H31V10.24ZM27 16.64 30.75 9.5H27ZM32.62 18V8.88H37.88V18ZM33.5 17.38H37.25V10.24ZM33.25 16.64 37 9.5H33.25ZM38.88 18V8.88H44.12V18ZM39.75 17.38H43.5V10.24ZM39.5 16.64 43.25 9.5H39.5ZM45.12 18V8.88H50.38V18ZM46 17.38H49.75V10.24ZM45.75 16.64 49.5 9.5H45.75Z" fill="#EDEBE6" /></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="28" viewBox="0 0 88 28" role="img" aria-label="Embedded C"><title>Embedded C</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="87" height="27" rx="4" fill="#F7F5F1" stroke="#DDD8CF"/><path d="M13.88 18V8.88H19.12V18ZM14.75 17.38H18.5V10.24ZM14.5 16.64 18.25 9.5H14.5ZM20.12 18V8.88H25.38V18ZM21 17.38H24.75V10.24ZM20.75 16.64 24.5 9.5H20.75ZM26.38 18V8.88H31.62V18ZM27.25 17.38H31V10.24ZM27 16.64 30.75 9.5H27ZM32.62 18V8.88H37.88V18ZM33.5 17.38H37.25V10.24ZM33.25 16.64 37 9.5H33.25ZM38.88 18V8.88H44.12V18ZM39.75 17.38H43.5V10.24ZM39.5 16.64 43.25 9.5H39.5ZM45.12 18V8.88H50.38V18ZM46 17.38H49.75V10.24ZM45.75 16.64 49.5 9.5H45.75ZM51.38 18V8.88H56.62V18ZM52.25 17.38H56V10.24ZM52 16.64 55.75 9.5H52ZM57.62 18V8.88H62.88V18ZM58.5 17.38H62.25V10.24ZM58.25 16.64 62 9.5H58.25ZM63.88 18V8.88H69.12V18ZM64.75 17.38H68.5V10.24ZM64.5 16.64 68.25 9.5H64.5ZM70.12 18V8.88H75.38V18ZM71 17.38H74.75V10.24ZM70.75 16.64 74.5 9.5H70.75Z" fill="#14130F" /></svg>

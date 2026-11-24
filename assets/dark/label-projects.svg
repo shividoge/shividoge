@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="24" viewBox="0 0 116 24" role="img" aria-label="Projects"><title>Projects</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><path d="M0.99 16V7.97H5.61V16ZM1.76 15.45H5.06V9.17ZM1.54 14.8 4.84 8.52H1.54ZM8.91 16V7.97H13.53V16ZM9.68 15.45H12.98V9.17ZM9.46 14.8 12.76 8.52H9.46ZM16.83 16V7.97H21.45V16ZM17.6 15.45H20.9V9.17ZM17.38 14.8 20.68 8.52H17.38ZM24.75 16V7.97H29.37V16ZM25.52 15.45H28.82V9.17ZM25.3 14.8 28.6 8.52H25.3ZM32.67 16V7.97H37.29V16ZM33.44 15.45H36.74V9.17ZM33.22 14.8 36.52 8.52H33.22ZM40.59 16V7.97H45.21V16ZM41.36 15.45H44.66V9.17ZM41.14 14.8 44.44 8.52H41.14ZM48.51 16V7.97H53.13V16ZM49.28 15.45H52.58V9.17ZM49.06 14.8 52.36 8.52H49.06ZM56.43 16V7.97H61.05V16ZM57.2 15.45H60.5V9.17ZM56.98 14.8 60.28 8.52H56.98Z" fill="#D5ACFF" /><path d="M74.94 11.5H116" stroke="#2A2A31" stroke-width="1"/><circle cx="68.94" cy="11.5" r="2" fill="#D5ACFF"/></svg>

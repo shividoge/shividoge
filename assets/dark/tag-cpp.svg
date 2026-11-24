@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="28" viewBox="0 0 44 28" role="img" aria-label="C++"><title>C++</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="43" height="27" rx="4" fill="#16161A" stroke="#2A2A31"/><path d="M13.75 18V8.88H19V18ZM14.62 17.38H18.38V10.24ZM14.38 16.64 18.12 9.5H14.38ZM20 18V8.88H25.25V18ZM20.88 17.38H24.62V10.24ZM20.62 16.64 24.38 9.5H20.62ZM26.25 18V8.88H31.5V18ZM27.12 17.38H30.88V10.24ZM26.88 16.64 30.62 9.5H26.88Z" fill="#EDEBE6" /></svg>
