@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="36" viewBox="0 0 52 36" role="img" aria-label="I²C"><title>I²C</title><defs><style>
+@media (prefers-reduced-motion: no-preference){
+.pulse{animation:dash 5s linear infinite}
+.pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
+.shim{animation:shim 3.2s ease-in-out infinite}
+}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes shim{0%,100%{opacity:.55}50%{opacity:1}}
+</style></defs><rect x=".5" y=".5" width="47" height="27" rx="4" fill="#F7F5F1" stroke="#DDD8CF"/><path d="M14.06 18V16.98H15.93V9.9H14.06V8.88H18.94V9.9H17.07V16.98H18.94V18ZM22.32 12.94V11.85L24.35 10.34Q24.62 10.14 24.78 9.86Q24.94 9.57 24.94 9.3Q24.94 8.82 24.68 8.56Q24.41 8.29 23.98 8.29Q23.54 8.29 23.27 8.56Q23.01 8.82 23.01 9.3H22.14Q22.18 8.47 22.68 7.99Q23.18 7.5 23.98 7.5Q24.82 7.5 25.31 7.98Q25.8 8.46 25.8 9.28Q25.8 9.71 25.54 10.16Q25.27 10.61 24.81 10.95L23.21 12.14H25.94V12.94ZM31.55 18.12Q30.73 18.12 30.12 17.81Q29.51 17.5 29.18 16.91Q28.85 16.31 28.85 15.5V11.38Q28.85 10.55 29.18 9.96Q29.51 9.38 30.12 9.06Q30.73 8.75 31.55 8.75Q32.38 8.75 32.98 9.07Q33.58 9.39 33.9 9.97Q34.23 10.56 34.23 11.38H33.1Q33.1 10.6 32.69 10.18Q32.29 9.76 31.55 9.76Q30.81 9.76 30.39 10.17Q29.98 10.59 29.98 11.36V15.5Q29.98 16.27 30.39 16.69Q30.81 17.11 31.55 17.11Q32.29 17.11 32.69 16.69Q33.1 16.27 33.1 15.5H34.23Q34.23 16.3 33.9 16.89Q33.58 17.49 32.98 17.81Q32.38 18.12 31.55 18.12Z" fill="#14130F" /></svg>
