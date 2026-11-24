@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="336" height="150" viewBox="0 0 336 150" role="img" aria-label="The CPU datapath: registers, ALU and accelerator in a loop"><title>The CPU datapath: registers, ALU and accelerator in a loop</title><defs><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="160" viewBox="0 0 344 160" role="img" aria-label="The CPU datapath: registers, ALU and accelerator in a loop"><title>The CPU datapath: registers, ALU and accelerator in a loop</title><defs><style>
 @media (prefers-reduced-motion: no-preference){
 .pulse{animation:dash 5s linear infinite}
 .pulse2{animation:dash 5s linear infinite;animation-delay:-2.5s}
